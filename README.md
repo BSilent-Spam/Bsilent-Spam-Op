@@ -25,7 +25,7 @@
 
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FLASH-7H/FLASH-SPAM-OP)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BSilent-Spam/Bsilent-Spam-Op)
 ------------------------------------------------
 
 ### 🖇️ String session ⚡
