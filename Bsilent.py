@@ -22,7 +22,7 @@ from Config import STRING, SUDO, BIO_MESSAGE, ALIVE_NAME, API_ID, API_HASH, STRI
 import asyncio
 import telethon.utils
 from telethon.tl import functions
-from telethon.tl.functions.channels import مغادرهChannelRequest
+from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from Utils import RAID, RRAID
 
